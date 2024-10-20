@@ -1,0 +1,23 @@
+@echo off
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\usy2.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\USY5.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\USY10.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\Dolar Comercial.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\DI.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\DX.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\DXY.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\INDFUT.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\SPFUT.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\VIXFUT.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\DOLFUT.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\DI26.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\DI27.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\DI29.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\DI31.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\DI33.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\USDMXN.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\SEP500.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\DOWJONES.bat"
+start "" "C:\Users\Administrador\Desktop\Nova pasta (3)\NASDAQ.bat"
+exit
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
